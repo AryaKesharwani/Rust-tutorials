@@ -1,0 +1,6 @@
+cargo new <foldername>
+cargo build 
+cargo run 
+cargo check 
+
+rustc <rustfile>
