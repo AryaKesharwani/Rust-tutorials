@@ -2,5 +2,5 @@ cargo new <foldername>
 cargo build 
 cargo run 
 cargo check 
-
+cargo new <name> --vcs none 
 rustc <rustfile>
